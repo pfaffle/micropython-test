@@ -1,4 +1,4 @@
-micropython
+micropython-test
 ===========
 
 This is a test repo I made for experimenting with MicroPython and a ESP8266 microcontroller board.
